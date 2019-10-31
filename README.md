@@ -1,7 +1,9 @@
 # LendingClub-Group-K
 Capstone
 Problem Statement -> LendingClub_problem_statement.docx
+
 Original dataset -> loan.zip
+
 Data Dictionary -> LCDataDictionary.xlsx
 
 1. Data cleaning done in "group K lending club data cleaning.ipynb". Output is "cleaned_data.csv"
